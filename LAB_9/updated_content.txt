@@ -1,0 +1,6 @@
+23
+24
+26
+20
+25
+bye Hello from python
